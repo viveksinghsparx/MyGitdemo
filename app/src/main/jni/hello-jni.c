@@ -30,6 +30,7 @@ Java_com_example_hellojni_HelloJni_stringFromJNI1( JNIEnv* env,
                                                    jobject thiz )
 {
     int a, b, c;
+    int d;
 
     printf("Enter two numbers to add\n");
     scanf("%d%d",&a,&b);

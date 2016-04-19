@@ -54,7 +54,9 @@ public class HelloJni extends Activity
      * Trying to call this function will result in a
      * java.lang.UnsatisfiedLinkError exception !
      */
-    public native String  unimplementedStringFromJNI();
+
+
+
 
     /* this is used to load the 'hello-jni' library on application
      * startup. The library has already been unpacked into
