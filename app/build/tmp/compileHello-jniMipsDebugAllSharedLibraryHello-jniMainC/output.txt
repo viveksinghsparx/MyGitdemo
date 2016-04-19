@@ -1,0 +1,4 @@
+See file:///D:/studioworkspace/hello-jni/app/build/tmp/compileHello-jniMipsDebugAllSharedLibraryHello-jniMainC/output.txt for all output for compileHello-jniMipsDebugAllSharedLibraryHello-jniMainC.
+compiling hello-jni.c successful.
+
+Finished compileHello-jniMipsDebugAllSharedLibraryHello-jniMainC, see full log file:///D:/studioworkspace/hello-jni/app/build/tmp/compileHello-jniMipsDebugAllSharedLibraryHello-jniMainC/output.txt.

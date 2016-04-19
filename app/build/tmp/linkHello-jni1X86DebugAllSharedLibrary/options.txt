@@ -1,0 +1,13 @@
+-shared
+-Wl,-soname,libhello-jni1.so
+-o
+D:\\studioworkspace\\hello-jni\\app\\build\\intermediates\\binaries\\debug\\all\\obj\\x86\\libhello-jni1.so
+D:\\studioworkspace\\hello-jni\\app\\build\\intermediates\\objectFiles\\x86DebugAllSharedLibrary\\hello-jni1MainC\\13rmfmt6064ke7hskpu1ights\\hello-jni.o
+D:\\studioworkspace\\hello-jni\\app\\build\\intermediates\\objectFiles\\x86DebugAllSharedLibrary\\hello-jni1MainC\\b5rvt1j6fr0c1fx7kw4i3iw4f\\hello-jni1.o
+-Wl,--no-undefined
+-Wl,-z,noexecstack
+-Wl,-z,relro
+-Wl,-z,now
+--sysroot=D:\\android_studio_setup\\sdk\\ndk-bundle/platforms/android-23/arch-x86
+-Wl,--build-id
+-no-canonical-prefixes

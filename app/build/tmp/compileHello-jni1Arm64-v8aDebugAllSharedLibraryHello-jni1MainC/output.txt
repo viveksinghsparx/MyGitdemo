@@ -1,0 +1,6 @@
+See file:///D:/studioworkspace/hello-jni/app/build/tmp/compileHello-jni1Arm64-v8aDebugAllSharedLibraryHello-jni1MainC/output.txt for all output for compileHello-jni1Arm64-v8aDebugAllSharedLibraryHello-jni1MainC.
+compiling hello-jni.c successful.
+
+compiling hello-jni1.c successful.
+
+Finished compileHello-jni1Arm64-v8aDebugAllSharedLibraryHello-jni1MainC, see full log file:///D:/studioworkspace/hello-jni/app/build/tmp/compileHello-jni1Arm64-v8aDebugAllSharedLibraryHello-jni1MainC/output.txt.

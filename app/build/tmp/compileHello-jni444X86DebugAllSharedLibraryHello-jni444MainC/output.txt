@@ -1,0 +1,4 @@
+See file:///D:/studioworkspace/hello-jni/app/build/tmp/compileHello-jni444X86DebugAllSharedLibraryHello-jni444MainC/output.txt for all output for compileHello-jni444X86DebugAllSharedLibraryHello-jni444MainC.
+compiling hello-jni.c successful.
+
+Finished compileHello-jni444X86DebugAllSharedLibraryHello-jni444MainC, see full log file:///D:/studioworkspace/hello-jni/app/build/tmp/compileHello-jni444X86DebugAllSharedLibraryHello-jni444MainC/output.txt.

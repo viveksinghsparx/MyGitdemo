@@ -1,0 +1,12 @@
+-shared
+-Wl,-soname,libhello-jni444.so
+-o
+D:\\studioworkspace\\hello-jni\\app\\build\\intermediates\\binaries\\debug\\all\\obj\\mips\\libhello-jni444.so
+D:\\studioworkspace\\hello-jni\\app\\build\\intermediates\\objectFiles\\mipsDebugAllSharedLibrary\\hello-jni444MainC\\13rmfmt6064ke7hskpu1ights\\hello-jni.o
+-Wl,--no-undefined
+-Wl,-z,noexecstack
+-Wl,-z,relro
+-Wl,-z,now
+--sysroot=D:\\android_studio_setup\\sdk\\ndk-bundle/platforms/android-23/arch-mips
+-Wl,--build-id
+-no-canonical-prefixes

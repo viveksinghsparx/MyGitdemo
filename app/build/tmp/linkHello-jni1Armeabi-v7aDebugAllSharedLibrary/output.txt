@@ -1,0 +1,4 @@
+See file:///D:/studioworkspace/hello-jni/app/build/tmp/linkHello-jni1Armeabi-v7aDebugAllSharedLibrary/output.txt for all output for linkHello-jni1Armeabi-v7aDebugAllSharedLibrary.
+linking libhello-jni1.so successful.
+
+Finished linkHello-jni1Armeabi-v7aDebugAllSharedLibrary, see full log file:///D:/studioworkspace/hello-jni/app/build/tmp/linkHello-jni1Armeabi-v7aDebugAllSharedLibrary/output.txt.

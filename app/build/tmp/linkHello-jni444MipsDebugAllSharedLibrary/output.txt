@@ -1,0 +1,4 @@
+See file:///D:/studioworkspace/hello-jni/app/build/tmp/linkHello-jni444MipsDebugAllSharedLibrary/output.txt for all output for linkHello-jni444MipsDebugAllSharedLibrary.
+linking libhello-jni444.so successful.
+
+Finished linkHello-jni444MipsDebugAllSharedLibrary, see full log file:///D:/studioworkspace/hello-jni/app/build/tmp/linkHello-jni444MipsDebugAllSharedLibrary/output.txt.
