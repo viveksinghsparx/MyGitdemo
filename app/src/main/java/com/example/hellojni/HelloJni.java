@@ -35,6 +35,7 @@ public class HelloJni extends Activity
         TextView  tv = new TextView(this);
         tv.setText( stringFromJNI1() );
         setContentView(tv);
+
     }
 
     /* A native method that is implemented by the
